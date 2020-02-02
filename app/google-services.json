@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "810283378374",
+    "firebase_url": "https://cosmic-carving-266915.firebaseio.com",
+    "project_id": "cosmic-carving-266915",
+    "storage_bucket": "cosmic-carving-266915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810283378374:android:bdb9a4f8b4285c553799c7",
+        "android_client_info": {
+          "package_name": "com.example.gigatree20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810283378374-hhmfh8fd97c4dsoi1dp7sd60ur4am0ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT0riReYQqiHcliwCOW636HIGHqWG-BoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810283378374-hhmfh8fd97c4dsoi1dp7sd60ur4am0ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
