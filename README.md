@@ -1,0 +1,2 @@
+# EcoGo
+•	Initiative of EgoGo is to help users recycle their trash and decrease the impacts of global warming by offering rewards to users who recycle more. The app allows the user to open up their camera and scan an object which then determines whether the item belongs in recycling, trash or if the item is unidentifiable. If the item is classified as recycling the user would gain points that would grow a virtual tree which allows the user to see their environmental footprint
